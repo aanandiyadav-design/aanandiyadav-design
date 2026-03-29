@@ -29,7 +29,7 @@
 
 I’m a fourth year BCom student at UBC Sauder concentrating in Business Analytics.
 
-Most of my work sits close to real decisions. I like working through large datasets, identifying what is actually driving the outcome, and turning that into actionable insigts. 
+I like working through large datasets, identifying what is actually driving the outcome, and turning that into actionable insigts. 
 
 Recently, I’ve been spending more time on predictive modeling, A/B testing, NLP, feature engineering, and model evaluation. I’m especially interested in regression analysis, classification, statistical testing, and the practical side of using data science tools to improve decision quality.
 
