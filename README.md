@@ -27,7 +27,7 @@
 
 ## 👩🏻‍💻 About
 
-I’m a fourth year BCom student at UBC Sauder concentrating in Business Analytics.
+Hi there! I’m a fourth year BCom student at UBC Sauder concentrating in Business Analytics.
 
 I like working through large datasets, identifying what is actually driving the outcome, and turning that into actionable insigts. 
 
