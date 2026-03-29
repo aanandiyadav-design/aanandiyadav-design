@@ -19,16 +19,17 @@
 </p>
 
 <p align="center">
-  📊 I work on problems where analysis needs to hold up technically and still lead to a clear decision.
+  📊  I build models, test hypotheses, and turn large datasets into decisions. 
+  Focused on predictive modeling, experimentation, and the intersection of machine learning and business performance.
 </p>
 
 ---
 
-## About
+## 👩🏻‍💻 About
 
-I’m a fourth year BCom student at UBC Sauder focused on Business Analytics.
+I’m a fourth year BCom student at UBC Sauder concentrating in Business Analytics.
 
-Most of my work sits close to real decisions. I like working through large datasets, cleaning them properly, identifying what is actually driving the outcome, and turning that into something clear enough for another person to use. A lot of what interests me sits at the intersection of machine learning, experimentation, risk, and business performance.
+Most of my work sits close to real decisions. I like working through large datasets, identifying what is actually driving the outcome, and turning that into actionable insigts. A lot of what interests me sits at the intersection of machine learning, experimentation, risk, and business performance.
 
 Recently, I’ve been spending more time on predictive modeling, A/B testing, NLP, feature engineering, and model evaluation. I’m especially interested in regression analysis, classification, statistical testing, and the practical side of using data science tools to improve decision quality.
 
@@ -38,7 +39,7 @@ large datasets -> structure -> signal -> decision
 
 ---
 
-## Selected Projects
+## ⚙️ Projects
 
 ### [Social Media Sentiment & Topic Analysis](https://github.com/aanandiyadav-design/social-media-sentiment-analysis-x)
 Used Python to analyze about 5,000 social posts and study sentiment, topic concentration, and user level influence. The project focused on text preprocessing, regex based extraction, feature engineering, and understanding how attention and sentiment are distributed across a conversation.
@@ -51,37 +52,37 @@ Analyzed how geographic ad targeting constraints affect engagement, conversion q
 
 ---
 
-## Tools
+## 🛠️ Tools
 
 **Languages**  
-Python, SQL, R, Excel VBA
+Python, SQL, R, Excel VBA  
 
 **Python stack**  
-Pandas, NumPy, Matplotlib, Seaborn, scikit learn
+Pandas, NumPy, SciPy, Matplotlib, Seaborn, scikit-learn, Statsmodels, XGBoost, LightGBM  
 
 **R stack**  
-dplyr, ggplot2, caret, glmnet
+dplyr, ggplot2, caret, glmnet, tidymodels, data.table  
+
+**SQL**  
+Joins, CTEs, window functions, subqueries, aggregations, query optimization  
+
+**Data & Visualization**  
+Power BI, Tableau, dashboarding, data modeling, reporting  
+
+**Data Processing**  
+Data Preprocessing, Data cleaning, transformation, feature engineering, data validation  
 
 **Methods**  
-Machine learning, regression analysis, classification, A/B testing, statistical modeling, feature engineering, Monte Carlo simulation, forecasting, risk analysis, model evaluation
+Machine learning, regression (linear and logistic), classification, A/B testing, hypothesis testing, tree-based models (decision trees, random forests, gradient boosting), cross-validation, Monte Carlo simulation, forecasting, scenario analysis, sensitivity analysis, risk modeling
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-I’m building projects that show three sides of analytics work:
+I'm building a project that runs end-to-end across the analytics stack:
 
-* unstructured data and NLP  
-* predictive modeling and evaluation  
-* experimentation and decision analysis  
-
-I’m most interested in roles where data is used to support product, operational, financial, or risk related decisions.
+* unstructured data and NLP — scraping and processing earnings call transcripts to extract sentiment and key themes using spaCy and NLTK
+* predictive modeling and evaluation — training a classifier to predict whether a stock will outperform the market in the following quarter, evaluated on precision, recall, and AUC
+* experimentation and decision analysis — A/B testing different feature sets and thresholds to measure how model choices affect decision quality downstream
 
 ---
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aanandiyadav-design&show_icons=true&hide_border=true&title_color=111827&icon_color=374151&text_color=4B5563&bg_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanandiyadav-design&layout=compact&hide_border=true&title_color=111827&text_color=4B5563&bg_color=ffffff" />
-</p>
