@@ -1,4 +1,4 @@
-<h1 align="center">Aanandi Yadav</h1>
+<h1 align="center"> 👾 Aanandi Yadav 👾 </h1>
 
 <p align="center">
   <strong>Business Analytics • Machine Learning • Decision Analysis</strong>
