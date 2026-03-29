@@ -44,10 +44,10 @@ large datasets -> structure -> signal -> decision
 ### [Social Media Sentiment & Topic Analysis](https://github.com/aanandiyadav-design/social-media-sentiment-analysis-x)
 Used Python to analyze about 5,000 social posts and study sentiment, topic concentration, and user level influence. The project focused on text preprocessing, regex based extraction, feature engineering, and understanding how attention and sentiment are distributed across a conversation.
 
-### [Credit Risk Analysis](https://github.com/aanandiyadav-design/credit-risk-analysis)
+### [Credit Risk Analysis](https://github.com/aanandiyadav-design/credit-risk-modeling)
 Built classification models in R to evaluate loan outcomes using logistic regression, decision trees, and random forest. The project focused on model comparison, cross validation, holdout evaluation, feature signal concentration, and the risk of leakage in credit modeling.
 
-### [Ad Targeting A/B Testing Analysis](https://github.com/aanandiyadav-design/ad-targeting-ab-testing-analysis)
+### [Ad Targeting A/B Testing Analysis](https://github.com/aanandiyadav-design/ab-testing-ad-targeting)
 Analyzed how geographic ad targeting constraints affect engagement, conversion quality, and revenue. The project used experimental analysis in R to evaluate CTR, sell through, conversion, monetization impact, and the tradeoff between relevance and click volume.
 
 ---
@@ -67,10 +67,10 @@ dplyr, ggplot2, caret, glmnet, tidymodels, data.table
 Joins, CTEs, window functions, subqueries, aggregations, query optimization  
 
 **Data & Visualization**  
-Power BI, Tableau, dashboarding, data modeling, reporting  
+Power BI, Tableau, Excel VBA dashboards, data modeling, reporting  
 
 **Data Processing**  
-Data Preprocessing, Data cleaning, transformation, feature engineering, data validation  
+data preprocessing, data cleaning, transformation, feature engineering, data validation  
 
 **Methods**  
 Machine learning, regression (linear and logistic), classification, A/B testing, hypothesis testing, tree-based models (decision trees, random forests, gradient boosting), cross-validation, Monte Carlo simulation, forecasting, scenario analysis, sensitivity analysis, risk modeling
