@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  📊  I build models, test hypotheses, and turn large datasets into decisions. 
-  Focused on predictive modeling, experimentation, and the intersection of machine learning and business performance.
+  📊 Focused on predictive modeling, experimentation, and the intersection of machine learning and business performance.
 </p>
 
 ---
